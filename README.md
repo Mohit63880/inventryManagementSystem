@@ -47,3 +47,14 @@ User have to enter some details and then final bill is calculates as follows:
 In this section All the Sales record with date and time is saved in "sales.json"
 
 *********************************************************************************************************************************
+
+
+### Displaying Items
+
+Displaying items from the records
+1. Product Record
+2. Sales Record
+
+In this section All the Sales record with date and time is saved in "sales.json"
+
+*********************************************************************************************************************************
