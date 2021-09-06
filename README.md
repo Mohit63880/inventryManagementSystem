@@ -1,7 +1,7 @@
 # inventryManagementSystem
 Hello, I"m Mohit Anand Srivastava. I've successfully completed my first task (Inventry Management System) given by Skill India Python for ML/AI Internship. Thanks for giving me such a great oppertunity.
 
-Inventory Management System using python and No SQL Datasets.
+Inventory Management System using python and No SQL Datasets (json).
 *************************************************************
 
 ## Read and write funtion
